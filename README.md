@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leesitwai
 - 👀 I’m interested in Data Science, Health Data and Economic Data Analysis
-- 🌱 I’m currently learning R and Python
+- 🌱 I’m currently applying R and Python in my works.
 - 💞️ I’m looking to collaborate on Data Analysis in Health care
 - 📫 You can reach me at leesitwai@gmail.com
 
